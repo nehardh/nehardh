@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @nehardh
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Data Science, MERN Stack, Java(DSA)
-- 📫 How to reach me nehardh.m@gmail.com
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Just 10% of the money in the world is physical currency, the remaining being computer currency!
+# 👋 Hi, I’m @nehardh  
 
-<!---
-nehardh/nehardh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me  
+- 🌱 Currently learning **Data Science**, **MERN Stack**, and **Java (DSA)** 
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun Fact: Only 10% of the world's money exists as physical currency, while the rest is digital!  
+
+## 📫 How to Reach Me  
+- Email: **nehardh.m@gmail.com**  
