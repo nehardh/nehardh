@@ -1,23 +1,31 @@
-# 👋 Hi, I’m @nehardh  
+👋 Hi, I’m @nehardh
 
-## 📝 About Me  
-I am an aspiring software developer with a keen interest in building innovative solutions and exploring emerging technologies. Currently, I am focused on expanding my expertise in web development, data science, and problem-solving with efficient algorithms.  
+📝 About Me
 
-## 👀 Interests  
-- Building dynamic and interactive web applications  
-- Analyzing data to uncover insights and patterns  
-- Solving challenging coding problems  
+I’m an aspiring software developer passionate about building innovative solutions and exploring cutting-edge technologies. My focus lies in creating impactful applications through web development, leveraging data-driven insights, and solving challenging problems with efficient algorithms.
 
-## 🌱 What I’m Learning  
-- **Data Science**  
-- **MERN Stack**  
-- **Java (DSA)**  
+👀 Interests
+	•	Crafting dynamic and interactive web applications
+	•	Exploring data science to uncover insights and drive decision-making
+	•	Tackling complex coding problems and enhancing problem-solving skills
 
-## 😄 Pronouns  
-**He/Him**  
+🌱 What I’m Learning
+	•	React.js for modern web development
+	•	Data Science to analyze and visualize data effectively
+	•	MERN Stack for full-stack development
+	•	Java (DSA) to master algorithms and data structures
 
-## ⚡ Fun Fact  
-Only 10% of the world's money exists as physical currency, while the rest is digital!  
+🎯 Current Projects
+	•	EduTestify: A next-gen online examination platform featuring real-time monitoring, secure logins, and advanced performance analytics
+	•	CodeZon: A community platform integrating coding profiles, heatmaps, and level-based problem-solving
 
-## 📫 How to Reach Me  
-- Email: **nehardh.m@gmail.com**  
+😄 Pronouns
+
+He/Him
+
+⚡ Fun Fact
+
+💡 Did you know: The first computer programmer, Ada Lovelace, wrote an algorithm for a machine that didn’t even exist yet!
+
+📫 How to Reach Me
+	•	Email: nehardh.m@gmail.com
