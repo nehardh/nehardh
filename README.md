@@ -16,8 +16,7 @@ I’m an aspiring software developer passionate about building innovative soluti
 	•	Java (DSA) to master algorithms and data structures
 
 🎯 Current Projects
-	•	EduTestify: A next-gen online examination platform featuring real-time monitoring, secure logins, and advanced performance analytics
-	•	CodeZon: A community platform integrating coding profiles, heatmaps, and level-based problem-solving
+	
 
 😄 Pronouns
 
