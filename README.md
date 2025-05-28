@@ -1,30 +1,24 @@
-👋 Hi, I’m @nehardh
+# 👋 Hi, I'm Nehardh
 
-📝 About Me
+I'm an aspiring **Software Developer** passionate about building impactful applications, exploring modern technologies, and solving real-world problems with clean, efficient code.
 
-I’m an aspiring software developer passionate about building innovative solutions and exploring cutting-edge technologies. My focus lies in creating impactful applications through web development, leveraging data-driven insights, and solving challenging problems with efficient algorithms.
+## 🚀 About Me
+- 🌐 Web developer focused on creating dynamic, interactive, and user-centric applications.
+- 📊 Exploring **Data Science** to uncover insights and support decision-making.
+- 🧠 Enthusiastic about solving algorithmic challenges and strengthening problem-solving skills.
 
-👀 Interests
-	•	Crafting dynamic and interactive web applications
-	•	Exploring data science to uncover insights and drive decision-making
-	•	Tackling complex coding problems and enhancing problem-solving skills
+## 🧩 Currently Learning
+- ⚛️ **React.js** – Building modern, scalable user interfaces.
+- 📊 **Data Science** – Analyzing and visualizing data effectively.
+- 🌱 **MERN Stack** – Full-stack development with MongoDB, Express, React, and Node.js.
+- 🧮 **Java (DSA)** – Mastering core algorithms and data structures.
 
-🌱 What I’m Learning
-	•	React.js for modern web development
-	•	Data Science to analyze and visualize data effectively
-	•	MERN Stack for full-stack development
-	•	Java (DSA) to master algorithms and data structures
+## 🛠️ Projects
+_Actively working on exciting new projects—stay tuned!_
 
-🎯 Current Projects
-	
+## 📫 Get in Touch
+- Email: [nehardh.m@gmail.com](mailto:nehardh.m@gmail.com)
 
-😄 Pronouns
+## ⚡ Fun Fact
+> Ada Lovelace wrote the first algorithm intended for a machine—before the machine even existed.
 
-He/Him
-
-⚡ Fun Fact
-
-💡 Did you know: The first computer programmer, Ada Lovelace, wrote an algorithm for a machine that didn’t even exist yet!
-
-📫 How to Reach Me
-	•	Email: nehardh.m@gmail.com
