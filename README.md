@@ -28,11 +28,12 @@
 - 📘 **AI-Powered Study Material Generator**  
   → Built with **Next.js, Clerk, Inngest** using **Gemini 2.0 API**  
   → Auto-generates flashcards, quizzes & summaries for 100+ users  
-  → [Live Site](https://project-zeta-ecru.vercel.app/)
+  → [Live Site](https://skillsure.vercel.app/)
 
 - 📝 **Notes App**  
   → A productivity app with sticky notes, calendar, whiteboard  
   → MERN Stack, **JWT Auth**, role-based APIs, Framer Motion
+  → [Live Site](https://note-ai-snowy.vercel.app/)
 
 - 🧾 **Healthcare Claim Processor** *(Ongoing)*  
   → OCR + NLP-based claim form validator using **FastAPI** & ML pipelines  
@@ -60,7 +61,7 @@
 
 | Area              | Skills & Tools |
 |-------------------|----------------|
-| **Languages**     | Java, Python, JavaScript, C |
+| **Languages**     | Java, JavaScript, C |
 | **Frontend**      | React.js, Next.js, HTML, TailwindCSS |
 | **Backend**       | Node.js, Express.js, Django |
 | **Databases**     | PostgreSQL, MongoDB, MySQL |
