@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <a href="https://project-zeta-ecru.vercel.app/">🌐 Portfolio</a> • 
+  <a href="https://nehardh-m.vercel.app/">🌐 Portfolio</a> • 
   <a href="mailto:nehardh.m@gmail.com">✉️ Email</a> • 
   <a href="https://www.linkedin.com/in/nehardh-madapuri-3b7a0b255/">🔗 LinkedIn</a>
 </p>
